@@ -1,3 +1,5 @@
-### Hi there 👋
+# Hi there 👋
 
-I code :smiley:
+I code a lot. :smiley:
+
+I'm currently working on Learn-Code, and header.js.
