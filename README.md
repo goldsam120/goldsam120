@@ -12,6 +12,6 @@ I'm currently working on Learn-Code, and header.js.
 
 My old accounts GitHub stats
 
-[![alt's github stats](https://github-readme-stats.vercel.app/api?username=AltsArchive&)](https://github.com/AltsArchive)
+[![alt's github stats](https://github-readme-stats.vercel.app/api?username=Alts-Archive&)](https://github.com/Alts-Archive)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AltsArchive&layout=compact)](https://github.com/AltsArchive)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alts-Archive&layout=compact)](https://github.com/Alts-Archive)
