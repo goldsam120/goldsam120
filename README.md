@@ -8,10 +8,4 @@ I'm currently working on Learn-Code, and header.js.
 
 [![alt's github stats](https://github-readme-stats.vercel.app/api?username=code-alt&)](https://github.com/code-alt)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=code-alt&layout=compact)](https://github.com/code-alt)
-
-My old accounts GitHub stats
-
-[![alt's github stats](https://github-readme-stats.vercel.app/api?username=Alts-Archive&)](https://github.com/Alts-Archive)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alts-Archive&layout=compact)](https://github.com/Alts-Archive)
